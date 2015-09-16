@@ -1,0 +1,14 @@
+# Site settings
+title: Management made decision, just BOHICA.
+description: "BOHICA means Bend Over Here It Comes Again. Every Developer knows the feeling."
+baseurl: ""
+
+github_username: spacanowski
+linkedin_username: pacanowskiszymon
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+paginate: 10
+paginate_path: "/blog/page:num/"

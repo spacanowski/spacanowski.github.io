@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "The start"
+date:   2015-09-14 20:26:28
+categories: random
+---
+
+This is just for people wondering what BOHICA means. It means [Bend Over Here It Comes Again][bohica]. Recently I discovered that military
+terms/acronyms are perfect for work in IT. Every developer, tester, admins, devops, webops, secops and other ops been there. I really like to 
+use [BOHICA][bohica], [SNAFU][snafu], [FUBAR][fubar] and [TARFU][tarfu] so I'll be using them. A lot.
+
+How it came to this that I like them so much you ask ? Well you probably been in situation where management made decision that left you speechless and only after a while you could just say 'What?' in total disbelieve. Those are mostly non technical management decisions, but sometimes they could also be technical. In company where I work while writing this post we are not pessimists we just are professionally skeptical, so in this situation we just say BOHICA with resignation. This is perfect situation to describe all your and your teammates feeling with one word. It's really optimal.
+
+When your project can be described with SNAFU, FUBAR, TARFU at once and all the time every time, and every decision from management is commented by BOHICA that's the real indicator to get the hell out of there. Well, also when you are bored all the time and you repeatedly do same things over and over and over again, but that's something for other time.
+
+Some people might say that you should only use WTF or DAFAQ or other fuck. I think they just express our surprise and not describe situation. I'm simple developer with hard engineering interface so I don't know a thing about properties spoken of language. I know a thing o to about thing or two, but spoken language isn't one of them. I can be wrong, but I don't care. If it suits you and it works it's ok in case of spoken language. Do some stupid shit like that in code or break CI build and I will be all over you. Probably with some stick.
+
+Military guys knew what they did creating those acronyms. They convey all the thoughts at once with some dose of playfulness that we adore so much.
+
+You should use them too.
+
+[bohica]: http://pl.urbandictionary.com/define.php?term=BOHICA
+[fubar]: http://pl.urbandictionary.com/define.php?term=fubar
+[snafu]: http://pl.urbandictionary.com/define.php?term=SNAFU
+[tarfu]: http://pl.urbandictionary.com/define.php?term=TARFU
