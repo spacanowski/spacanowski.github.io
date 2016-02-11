@@ -50,7 +50,7 @@ private String newOne() throws Exception {
 
 As name suggest ```DangerousScientist``` is the nasty one. It's for methods with side effects that aren't returning anything. It takes two additional arguments. One is method for comparison, second one for rollback of execution of new implementation. This one unlike others always runs new implementation first and than it's rollback passed as argument. For result comparison and handling of any side effects of new implementation is responsible one using it. There are too many variables to do it automatically, like db connection tools and ORMs. Personally I don't really trust this one and I wouldn't like to test critical paths with side effect, but I know there are situations when it's needed and we replace those. Either way I would prefer to use this one little bastard that to replace such critical path on production blindly.
 
-## Sumarry
+## Summary
 
 That's all I had to say about my implementation of Scientist. If you have some other idea or proposition just comment or make pull request on projects repo [here][my]
 
