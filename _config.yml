@@ -1,7 +1,7 @@
 # Site settings
 title: Management made decision, just BOHICA.
 description: "BOHICA means Bend Over Here It Comes Again. Every Developer knows the feeling."
-baseurl: "http://spacanowski.github.io"
+baseurl: "https://spacanowski.github.io"
 
 github_username: spacanowski
 linkedin_username: pacanowskiszymon
