@@ -10,5 +10,7 @@ linkedin_username: pacanowskiszymon
 markdown: kramdown
 permalink: pretty
 
+future: true
+
 paginate: 10
 paginate_path: "/blog/page:num/"
