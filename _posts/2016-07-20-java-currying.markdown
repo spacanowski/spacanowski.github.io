@@ -21,7 +21,7 @@ Or using compiler resolving for simplification
 {% highlight scala %}
 def add(x: Int)(y: Int): Int = x + y
 
- add(1)(2)
+add(1)(2)
 {% endhighlight %}
 
 In javascript we do
