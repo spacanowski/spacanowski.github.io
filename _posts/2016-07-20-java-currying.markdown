@@ -16,6 +16,10 @@ add(1)(2)
 {% endhighlight %}
 
 Pretty as hell.
+Or using compiler resolving
+
+def add(x: Int)(y: Int): Int = x + y
+
 
 In javascript we do
 
