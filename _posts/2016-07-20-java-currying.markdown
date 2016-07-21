@@ -16,10 +16,13 @@ add(1)(2)
 {% endhighlight %}
 
 Pretty as hell.
-Or using compiler resolving
+Or using compiler resolving for simplification
 
+{% highlight scala %}
 def add(x: Int)(y: Int): Int = x + y
 
+ add(1)(2)
+{% endhighlight %}
 
 In javascript we do
 
