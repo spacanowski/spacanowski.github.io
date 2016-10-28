@@ -5,7 +5,7 @@ date:   2016-10-24 16:22:28
 categories: java interview dictionary trie
 ---
 
-When you go on interviews sometimes you'll get some strange question about data structures. Most commonly it's something about dictionary. Sometimes it's 'how you would implement dictionary', sometimes it's 'find two words in dictionary' or even 'check if word is concatenation of words from dictionary'. If you think dictionary should be array/list then you're screwed. So let's fix some knowledge gaps.
+When you go to interviews sometimes you'll get some strange question about data structures. Most commonly it's something about dictionary. Sometimes it's 'how you would implement dictionary', sometimes it's 'find two words in dictionary' or even 'check if word is concatenation of words from dictionary'. If you think dictionary should be array/list then you're screwed. So let's fix some knowledge gaps.
 
 ## What to use for dictionary ?
 
